@@ -3,7 +3,7 @@
 This codebase provides code for building a sound event detection (SED) demo. The SED systems used in this codebase are directly from large-scale audio tagging systems trained on AudioSet: https://github.com/qiuqiangkong/audioset_tagging_cnn. If this codebase is helpful, please cite [1].
 
 ## Demo
-https://www.youtube.com/watch?v=SQYyfYCcvtw
+https://www.youtube.com/watch?v=QyFNIhRxFrY
 
 ## How to use:
 
